@@ -1,0 +1,7 @@
+﻿[*.vb]
+
+# BC42353: Function doesn't return a value on all code paths
+dotnet_diagnostic.BC42353.severity = none
+
+# IDE0017: Simplify object initialization
+dotnet_diagnostic.IDE0017.severity = none
